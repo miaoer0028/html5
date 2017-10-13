@@ -1,0 +1,21 @@
+//width宽度
+
+//height高度
+
+
+<iframe src="./index2.html" 
+
+style="width:900px;height:600px">
+
+
+  <p>您的浏览器不支持  iframe 标签。</p>
+</iframe>
+
+
+<iframe src="./index2.html" 
+
+style="width:900px;height:600px">
+
+
+  <p>您的浏览器不支持  iframe 标签。</p>
+</iframe>
